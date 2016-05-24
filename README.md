@@ -1,0 +1,1 @@
+# Homebrew formula for [slackgmote](https://github.com/alexives/slackgmote)
