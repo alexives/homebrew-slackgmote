@@ -3,6 +3,7 @@ class Slackgmote < Formula
   homepage "https://github.com/alexives/slackgmote"
   url "https://github.com/alexives/slackgmote/releases/download/v1.0/slackgmote.sh"
   sha256 ""
+  version "1.0"
 
   depends_on 'imagemagick'
 
