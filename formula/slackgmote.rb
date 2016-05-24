@@ -8,7 +8,7 @@ class Slackgmote < Formula
   depends_on 'imagemagick'
 
   def install
-    bin.install_symlink "bin/slackgmote.sh" => "slackgmote"
+    bin.install_symlink "slackgmote-1.0.sh" => "slackgmote"
   end
 end
 
